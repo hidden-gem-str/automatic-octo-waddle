@@ -1,9 +1,9 @@
 {
     "sourceName": "Animepahe",
-    "iconUrl": "https://raw.githubusercontent.com/hidden-gem-str/automatic-octo-waddle/refs/heads/main/animepahe/icon.png",
+    "iconUrl": "https://raw.githubusercontent.com/hidden-gem-str/automatic-octo-waddle/main/animepahe/icon.png",
     "author": {
         "name": "test",
-        "icon": "https://raw.githubusercontent.com/hidden-gem-str/automatic-octo-waddle/refs/heads/main/profile.jpg",
+        "icon": "https://raw.githubusercontent.com/hidden-gem-str/automatic-octo-waddle/main/profile.jpg",
         "url": "https://github.com/"
     },
     "version": "1.1.2",
@@ -12,7 +12,7 @@
     "quality": "1080p",
     "baseUrl": "https://animepahe.si/",
     "searchBaseUrl": "https://animepahe.si/search?query=%s",
-    "scriptUrl": "https://raw.githubusercontent.com/hidden-gem-str/automatic-octo-waddle/refs/heads/main/animepahe/animepahe.js",
+    "scriptUrl": "https://raw.githubusercontent.com/hidden-gem-str/automatic-octo-waddle/main/animepahe/animepahe.js",
     "type": "anime",
     "downloadSupport": true,
     "asyncJS": true,
