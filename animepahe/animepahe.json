@@ -10,7 +10,7 @@
   "streamType": "HLS",
   "quality": "1080p",
   "baseUrl": "https://animepahe.si/",
-  "searchBaseUrl": "https://animepahe.si/",
+  "searchBaseUrl": "https://animepahe.si/search?query=%s",
   "scriptUrl": "https://git.luna-app.eu/50n50/sources/raw/branch/main/animepahe/animepahe.js",
   "type": "anime",
   "asyncJS": true,
