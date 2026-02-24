@@ -1,0 +1,20 @@
+{
+    "sourceName": "Animepahe (DUB)",
+    "iconUrl": "https://raw.githubusercontent.com/hidden-gem-str/automatic-octo-waddle/refs/heads/main/animepahe/icon.png",
+    "author": {
+        "name": "ibro",
+        "icon": "https://raw.githubusercontent.com/hidden-gem-str/automatic-octo-waddle/refs/heads/main/profile.jpg",
+        "url": "https://github.com/xibrox"
+    },
+    "version": "1.0.31",
+    "language": "English",
+    "streamType": "HLS",
+    "quality": "1080p",
+    "baseUrl": "https://animepahe.si/",
+    "searchBaseUrl": "https://animepahe.si/search?query=%s",
+    "scriptUrl": "https://raw.githubusercontent.com/hidden-gem-str/automatic-octo-waddle/refs/heads/main/animepahe/animepaheDub.js",
+    "type": "anime",
+    "downloadSupport": true,
+    "asyncJS": true,
+    "softsub": true
+}
